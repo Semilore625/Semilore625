@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Semilore625
-- 👀 I’m interested in dance, judo and maths.
+- 👀 I’m interested in dance, judo, maths and science.
 - 🌱 I’m currently learning tailwind css
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me semiloreglasgow07@gmail.com
